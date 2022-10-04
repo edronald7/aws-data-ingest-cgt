@@ -1,6 +1,16 @@
 # Cargador Genérico de Tablas - CGT
 Private Repository
 
+### Repository
+Set remote and clone:
+```bash
+git clone git@github.com:edronald7/aws-data-ingest-cgt.git
+git remote set-url origin git@github.com:edronald7/aws-data-ingest-cgt.git
+
+git add .
+git commit -m "Stage ..."
+git push origin 
+```
 
 Python version: 3.8x
 ## Libraries & OS
